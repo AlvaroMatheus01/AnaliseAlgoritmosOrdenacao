@@ -1,0 +1,29 @@
+Relatório de Análise de Algoritmos de Ordenação
+
+Base de dados selecionada com tamanho 10, Com Duplicidade e Aleatório.
+
+Caminho do arquivo: dados\10\Com Duplicidade\Aleatório\dtaleat10dup0.txt
+
+Base de dados original: [958, 421, 593, 253, 808, 337, 307, 957, 205, 112]
+
+Algoritmo: Algoritmo: Bubble Sort
+Número de comparações: 45
+Número de trocas de posição: 33
+Tempo (em segundos): 0,004000
+
+Base de dados ordenada: [112, 205, 253, 307, 337, 421, 593, 808, 957, 958]
+
+Algoritmo: Algoritmo: Merge Sort
+Número de comparações: 64
+Número de trocas de posição: 52
+Tempo (em segundos): 0,003000
+
+Base de dados ordenada: [112, 205, 253, 307, 337, 421, 593, 808, 957, 958]
+
+Algoritmo: Algoritmo: Quick Sort
+Número de comparações: 83
+Número de trocas de posição: 107
+Tempo (em segundos): 0,004000
+
+Base de dados ordenada: [112, 205, 253, 307, 337, 421, 593, 808, 957, 958]
+
